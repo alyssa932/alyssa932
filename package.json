@@ -1,0 +1,11 @@
+{
+  "name": "alyssa932",
+  "version": "1.0.1",
+  "description": "My personal website alyssa932",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Alyssa Galganov"
+}
