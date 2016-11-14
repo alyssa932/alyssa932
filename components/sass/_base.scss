@@ -1,7 +1,7 @@
 // _base.scss
 // ==============
 body {
-  background: lighten($beige, 10%);
+  background: lighten($mainGray, 70%);
   font-family: $bodyFont;
   font-size: 1.1em;
 }
@@ -35,13 +35,13 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  color: $purple;
+  color: $darkBlue;
 }
 
 p {
   font-size: 1.3em;
   line-height: 1.5em;
-    color: $purple;
+    color: $darkBlue;
   margin-bottom: 20px;
     margin-top: 15px;
 }

@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css?family=Lato:400,700|Vollkorn:400,400i";
 body {
-  background: #eddbba;
+  background: white;
   font-family: "Lato", sans-serif;
   font-size: 1.1em;
 }
@@ -35,13 +35,13 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  color: #3E2B3D;
+  color: #2D3E50;
 }
 
 p {
   font-size: 1.3em;
   line-height: 1.5em;
-  color: #3E2B3D;
+  color: #2D3E50;
   margin-bottom: 20px;
   margin-top: 15px;
 }
