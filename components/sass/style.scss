@@ -6,11 +6,24 @@
 @import "compass/css3/box-shadow";
 
 //Core partials
+@import "bootstrap";
+@import "fullwidth";
+@import "jquery.bxslider";
+@import "magnific-popup";
+@import "owl.carousel";
+@import "owl.theme";
+@import "responsive";
+@import "normalize";
 @import "variables";
 @import "mixins";
-@import "base";
 @import "modules";
+@import "screen";
+@import "settings";
+@import "font-awesome";
+@import "base";
+
+
+
 
 // JS partials
-@import "pixgrid";
-@import "rclick";
+

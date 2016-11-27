@@ -31,11 +31,28 @@ if (env==='development') {
 
 coffeeSources = ['components/coffee/tagline.coffee'];
 jsSources = [
-  'components/scripts/rclick.js',
-  'components/scripts/pixgrid.js',
   'components/scripts/tagline.js',
-  'components/scripts/template.js'
+  'components/scripts/bootstrap.js',
+  'components/scripts/DevSolutionSkill.min.js',
+  'components/scripts/gmap3.min.js',
+  'components/scripts/jquery.bxslider.min.js',
+  'components/scripts/jquery.flexslider.js',
+  'components/scripts/jquery.imagesloaded.min.js',
+  'components/scripts/jquery.isotope.min.js',
+  'components/scripts/jquery.magnific-popup.min.js',
+  'components/scripts/jquery.migrate.js',
+  'components/scripts/jquery.min.js',
+  'components/scripts/jquery.nouislider.min.js',
+  'components/scripts/jquery.themepunch.revolution.min.js',
+  'components/scripts/owl.carousel.min.js',
+  'components/scripts/plugins-scroll.js',
+  'components/scripts/raphael-min.js',
+  'components/scripts/retina-1.1.0.min.js',
+  'components/scripts/script.js',
+  'components/scripts/smooth-scroll.js',
+  
 ];
+
 sassSources = ['components/sass/style.scss'];
 htmlSources = [outputDir + '*.html'];
 jsonSources = [outputDir + 'js/*.json'];
